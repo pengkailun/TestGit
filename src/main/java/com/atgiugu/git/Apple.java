@@ -2,9 +2,10 @@ package com.atgiugu.git;
 
 public class Apple {
 	
-	public static void main(String[] args) {
+	public String ss() {
+		System.out.println("sdfsd");
+		return null;
 		
-		System.out.println("right-s");
 	}
 
 }
